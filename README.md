@@ -45,4 +45,5 @@ This project analyzes the historical stock data of Tata Consultancy Services (TC
 
 ### Author
 Gourab Bain
+
 Data Analyst | Python | Jupyter |
